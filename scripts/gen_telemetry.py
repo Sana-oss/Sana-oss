@@ -32,7 +32,7 @@ query($login:String!){
     followers{totalCount}
     pullRequests(states:MERGED){totalCount}
     issues{totalCount}
-    repositories(ownerAffiliation:OWNER,isFork:false,privacy:PUBLIC,first:100){
+    repositories(ownerAffiliations:OWNER,isFork:false,privacy:PUBLIC,first:100){
       totalCount
       nodes{
         stargazerCount
