@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 250" width="900" height="250" role="img" aria-labelledby="t d">
+  <title id="t">System stats</title>
+  <desc id="d">Four stat bars: Neural Link 95 percent, Cyberdeck 85 percent, Hacking 75 percent, Stealth 60 percent.</desc>
+  <defs>
+    <pattern id="seg" width="14" height="22" patternUnits="userSpaceOnUse">
+      <rect x="12" width="2" height="22" fill="#0a0e17"/>
+    </pattern>
+    <filter id="glow" x="-10%" y="-60%" width="120%" height="220%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <style>
+    .mono { font-family: 'Courier New', ui-monospace, Menlo, Consolas, monospace; }
+    .fill { transform-box: fill-box; transform-origin: left center; animation: grow 1.6s cubic-bezier(.2,.8,.2,1) both; }
+    .d2 { animation-delay: .15s; } .d3 { animation-delay: .3s; } .d4 { animation-delay: .45s; }
+    @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+    @media (prefers-reduced-motion: reduce) { .fill { animation: none; } }
+  </style>
+
+  <rect width="900" height="250" rx="10" fill="#0a0e17"/>
+  <rect x=".5" y=".5" width="899" height="249" rx="10" fill="none" stroke="#1d2a3d"/>
+
+  <g class="mono" font-size="14" letter-spacing="2">
+    <!-- NEURAL LINK -->
+    <text x="36" y="50" fill="#8A9BB5">NEURAL LINK</text>
+    <rect x="210" y="34" width="480" height="22" fill="#111a2a"/>
+    <rect class="fill" x="210" y="34" width="456" height="22" fill="#00F2FF" filter="url(#glow)"/>
+    <rect x="210" y="34" width="480" height="22" fill="url(#seg)"/>
+    <text x="710" y="50" fill="#00F2FF">95% SYNC</text>
+
+    <!-- CYBERDECK -->
+    <text x="36" y="104" fill="#8A9BB5">CYBERDECK</text>
+    <rect x="210" y="88" width="480" height="22" fill="#111a2a"/>
+    <rect class="fill d2" x="210" y="88" width="408" height="22" fill="#FF2BD6" filter="url(#glow)"/>
+    <rect x="210" y="88" width="480" height="22" fill="url(#seg)"/>
+    <text x="710" y="104" fill="#FF2BD6">85% OVERCLOCK</text>
+
+    <!-- HACKING -->
+    <text x="36" y="158" fill="#8A9BB5">HACKING</text>
+    <rect x="210" y="142" width="480" height="22" fill="#111a2a"/>
+    <rect class="fill d3" x="210" y="142" width="360" height="22" fill="#00FF41" filter="url(#glow)"/>
+    <rect x="210" y="142" width="480" height="22" fill="url(#seg)"/>
+    <text x="710" y="158" fill="#00FF41">75% BREACH</text>
+
+    <!-- STEALTH -->
+    <text x="36" y="212" fill="#8A9BB5">STEALTH</text>
+    <rect x="210" y="196" width="480" height="22" fill="#111a2a"/>
+    <rect class="fill d4" x="210" y="196" width="288" height="22" fill="#FFB000" filter="url(#glow)"/>
+    <rect x="210" y="196" width="480" height="22" fill="url(#seg)"/>
+    <text x="710" y="212" fill="#FFB000">60% ICE AVOID</text>
+  </g>
+</svg>
