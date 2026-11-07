@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 118" width="900" height="118" role="img" aria-labelledby="t d">
+  <title id="t">Top languages</title>
+  <desc id="d">Top programming languages by code size in public repositories of Sana-oss.</desc>
+  <rect width="900" height="118" rx="10" fill="#0a0e17"/>
+  <rect x=".5" y=".5" width="899" height="117" rx="10" fill="none" stroke="#1d2a3d"/>
+  <g font-family="'Courier New', ui-monospace, Menlo, Consolas, monospace" font-size="14" letter-spacing="2">
+    <text x="30" y="34" font-size="14" letter-spacing="3" fill="#8A9BB5">// TOP LANGUAGES</text>
+    <text x="30" y="80" fill="#8A9BB5">SYNC PENDING</text>
+    <text x="30" y="106" font-size="11" letter-spacing="1" fill="#8A9BB5">SYNC PENDING - FIRST RUN OF THE TELEMETRY ACTION UPDATES THIS</text>
+  </g>
+</svg>

@@ -102,12 +102,13 @@
 
 ## `// LIVE TELEMETRY`
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sana-oss&show_icons=true&hide_border=true&bg_color=0a0e17&title_color=00F2FF&icon_color=FF2BD6&text_color=E6F1FF&ring_color=00FF41&border_radius=8" alt="GitHub stats for Sana-oss: stars, commits, pull requests, issues" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sana-oss&layout=compact&hide_border=true&bg_color=0a0e17&title_color=00F2FF&text_color=E6F1FF&border_radius=8" alt="Most used languages for Sana-oss" />
+<img src="https://raw.githubusercontent.com/Sana-oss/Sana-oss/main/assets/telemetry.svg" alt="Live telemetry: commits, merged pull requests, issues, stars, public repos and followers" width="100%" />
+
+<img src="https://raw.githubusercontent.com/Sana-oss/Sana-oss/main/assets/languages.svg" alt="Top languages by code size" width="100%" />
 
 <img src="https://streak-stats.demolab.com/?user=Sana-oss&hide_border=true&background=0a0e17&ring=00F2FF&fire=FF2BD6&currStreakLabel=00FF41&currStreakNum=E6F1FF&sideLabels=E6F1FF&sideNums=E6F1FF&dates=8A9BB5&border_radius=8" alt="Contribution streak for Sana-oss" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sana-oss&bg_color=0a0e17&color=00F2FF&line=FF2BD6&point=E6F1FF&area=true&area_color=00F2FF&hide_border=true" alt="Contribution activity graph for Sana-oss" width="100%" />
+<img src="https://raw.githubusercontent.com/Sana-oss/Sana-oss/main/assets/activity.svg" alt="Contribution activity heatmap for the last year" width="100%" />
 
 <img src="https://raw.githubusercontent.com/Sana-oss/Sana-oss/main/assets/divider.svg" alt="" width="100%" />
 

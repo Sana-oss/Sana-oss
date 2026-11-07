@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="900" height="180" role="img" aria-labelledby="t d">
+  <title id="t">Live telemetry</title>
+  <desc id="d">Stat tiles for Sana-oss: commits in the last year, merged pull requests, issues, stars, public repos, followers.</desc>
+  <rect width="900" height="180" rx="10" fill="#0a0e17"/>
+  <rect x=".5" y=".5" width="899" height="179" rx="10" fill="none" stroke="#1d2a3d"/>
+  <g font-family="'Courier New', ui-monospace, Menlo, Consolas, monospace">
+    <text x="30" y="34" font-size="14" letter-spacing="3" fill="#8A9BB5">// LIVE TELEMETRY</text>
+    <rect x="30" y="52" width="130" height="86" rx="6" fill="#111a2a"/>
+    <rect x="30" y="52" width="130" height="3" fill="#00F2FF"/>
+    <text x="95" y="100" font-size="30" font-weight="700" text-anchor="middle" fill="#E6F1FF">--</text>
+    <text x="95" y="124" font-size="11" letter-spacing="1" text-anchor="middle" fill="#8A9BB5">COMMITS / YR</text>
+    <rect x="172" y="52" width="130" height="86" rx="6" fill="#111a2a"/>
+    <rect x="172" y="52" width="130" height="3" fill="#FF2BD6"/>
+    <text x="237" y="100" font-size="30" font-weight="700" text-anchor="middle" fill="#E6F1FF">--</text>
+    <text x="237" y="124" font-size="11" letter-spacing="1" text-anchor="middle" fill="#8A9BB5">PRS MERGED</text>
+    <rect x="314" y="52" width="130" height="86" rx="6" fill="#111a2a"/>
+    <rect x="314" y="52" width="130" height="3" fill="#00FF41"/>
+    <text x="379" y="100" font-size="30" font-weight="700" text-anchor="middle" fill="#E6F1FF">--</text>
+    <text x="379" y="124" font-size="11" letter-spacing="1" text-anchor="middle" fill="#8A9BB5">ISSUES</text>
+    <rect x="456" y="52" width="130" height="86" rx="6" fill="#111a2a"/>
+    <rect x="456" y="52" width="130" height="3" fill="#FFB000"/>
+    <text x="521" y="100" font-size="30" font-weight="700" text-anchor="middle" fill="#E6F1FF">--</text>
+    <text x="521" y="124" font-size="11" letter-spacing="1" text-anchor="middle" fill="#8A9BB5">STARS</text>
+    <rect x="598" y="52" width="130" height="86" rx="6" fill="#111a2a"/>
+    <rect x="598" y="52" width="130" height="3" fill="#00F2FF"/>
+    <text x="663" y="100" font-size="30" font-weight="700" text-anchor="middle" fill="#E6F1FF">--</text>
+    <text x="663" y="124" font-size="11" letter-spacing="1" text-anchor="middle" fill="#8A9BB5">PUBLIC REPOS</text>
+    <rect x="740" y="52" width="130" height="86" rx="6" fill="#111a2a"/>
+    <rect x="740" y="52" width="130" height="3" fill="#FF2BD6"/>
+    <text x="805" y="100" font-size="30" font-weight="700" text-anchor="middle" fill="#E6F1FF">--</text>
+    <text x="805" y="124" font-size="11" letter-spacing="1" text-anchor="middle" fill="#8A9BB5">FOLLOWERS</text>
+    <text x="30" y="166" font-size="11" letter-spacing="1" fill="#8A9BB5">SYNC PENDING - FIRST RUN OF THE TELEMETRY ACTION UPDATES THIS</text>
+  </g>
+</svg>
