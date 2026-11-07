@@ -89,28 +89,34 @@
 
 ## `// ACHIEVEMENTS UNLOCKED`
 
-| BADGE | UNLOCK CONDITION |
-| :-- | :-- |
-| **First Boot** | Wrote your first line of code |
-| **Glitch in the Matrix** | Fixed 50+ bugs |
-| **Netrunner** | Merged 10+ PRs |
-| **Data Dump** | Shipped 5+ projects |
-| **Ramadan Runner** | Built Booking for Ramadan |
+| BADGE | UNLOCK CONDITION | STATUS |
+| :-- | :-- | :-- |
+| **First Boot** | Wrote your first line of code | ![Unlocked](https://img.shields.io/badge/UNLOCKED-00FF41?style=flat-square&labelColor=0a0e17) |
+| **Data Dump** | Shipped 3 projects: POS Mahal, Roster Craft Suite, Booking for Ramadan | ![Unlocked](https://img.shields.io/badge/UNLOCKED-00FF41?style=flat-square&labelColor=0a0e17) |
+| **Ramadan Runner** | Built [Booking for Ramadan](https://github.com/Sana-oss/Booking-for-Ramdan) | ![Unlocked](https://img.shields.io/badge/UNLOCKED-00FF41?style=flat-square&labelColor=0a0e17) |
+| **Mission Control** | Running 2 active missions: Corinthia tool and ZAD | ![In progress](https://img.shields.io/badge/IN%20PROGRESS-FFB000?style=flat-square&labelColor=0a0e17) |
+
+> Commit, PR and issue counts are tracked live in **Live Telemetry** below, straight from GitHub.
 
 <img src="https://raw.githubusercontent.com/Sana-oss/Sana-oss/main/assets/divider.svg" alt="" width="100%" />
 
 ## `// LIVE TELEMETRY`
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sana-oss&show_icons=true&hide_border=true&bg_color=0a0e17&title_color=00F2FF&icon_color=FF2BD6&text_color=E6F1FF&ring_color=00FF41&border_radius=8" alt="GitHub stats for Sana-oss" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sana-oss&show_icons=true&hide_border=true&bg_color=0a0e17&title_color=00F2FF&icon_color=FF2BD6&text_color=E6F1FF&ring_color=00FF41&border_radius=8" alt="GitHub stats for Sana-oss: stars, commits, pull requests, issues" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sana-oss&layout=compact&hide_border=true&bg_color=0a0e17&title_color=00F2FF&text_color=E6F1FF&border_radius=8" alt="Most used languages for Sana-oss" />
+
+<img src="https://streak-stats.demolab.com/?user=Sana-oss&hide_border=true&background=0a0e17&ring=00F2FF&fire=FF2BD6&currStreakLabel=00FF41&currStreakNum=E6F1FF&sideLabels=E6F1FF&sideNums=E6F1FF&dates=8A9BB5&border_radius=8" alt="Contribution streak for Sana-oss" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sana-oss&bg_color=0a0e17&color=00F2FF&line=FF2BD6&point=E6F1FF&area=true&area_color=00F2FF&hide_border=true" alt="Contribution activity graph for Sana-oss" width="100%" />
 
 <img src="https://raw.githubusercontent.com/Sana-oss/Sana-oss/main/assets/divider.svg" alt="" width="100%" />
 
 ## `// ACCESS LOG`
 
 <img src="https://komarev.com/ghpvc/?username=Sana-oss&style=flat-square&color=00F2FF&label=PROFILE+ACCESSES" alt="Profile view counter" />
+<img src="https://img.shields.io/github/followers/Sana-oss?style=flat-square&label=FOLLOWERS&color=FF2BD6&labelColor=0a0e17" alt="GitHub follower count" />
 <img src="https://img.shields.io/github/last-commit/Sana-oss/Sana-oss?style=flat-square&label=LAST%20UPLINK&color=00FF41&labelColor=0a0e17" alt="Date of last commit" />
-<img src="https://img.shields.io/badge/SYSTEM-CYBERPUNK%20OS%20v2.0-FF2BD6?style=flat-square&labelColor=0a0e17" alt="System: Cyberpunk OS v2.0" />
+<img src="https://img.shields.io/github/created-at/Sana-oss/Sana-oss?style=flat-square&label=ONLINE%20SINCE&color=00F2FF&labelColor=0a0e17" alt="Date this profile repo was created" />
 
 <sub>The future is already here, it's just not evenly distributed. - William Gibson</sub>
 
