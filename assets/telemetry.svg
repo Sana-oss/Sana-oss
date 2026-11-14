@@ -7,11 +7,11 @@
     <text x="30" y="34" font-size="14" letter-spacing="3" fill="#8A9BB5">// LIVE TELEMETRY</text>
     <rect x="30" y="52" width="130" height="86" rx="6" fill="#111a2a"/>
     <rect x="30" y="52" width="130" height="3" fill="#00F2FF"/>
-    <text x="95" y="100" font-size="30" font-weight="700" text-anchor="middle" fill="#E6F1FF">125</text>
+    <text x="95" y="100" font-size="30" font-weight="700" text-anchor="middle" fill="#E6F1FF">138</text>
     <text x="95" y="124" font-size="11" letter-spacing="1" text-anchor="middle" fill="#8A9BB5">COMMITS / YR</text>
     <rect x="172" y="52" width="130" height="86" rx="6" fill="#111a2a"/>
     <rect x="172" y="52" width="130" height="3" fill="#FF2BD6"/>
-    <text x="237" y="100" font-size="30" font-weight="700" text-anchor="middle" fill="#E6F1FF">8</text>
+    <text x="237" y="100" font-size="30" font-weight="700" text-anchor="middle" fill="#E6F1FF">12</text>
     <text x="237" y="124" font-size="11" letter-spacing="1" text-anchor="middle" fill="#8A9BB5">PRS MERGED</text>
     <rect x="314" y="52" width="130" height="86" rx="6" fill="#111a2a"/>
     <rect x="314" y="52" width="130" height="3" fill="#00FF41"/>
@@ -29,6 +29,6 @@
     <rect x="740" y="52" width="130" height="3" fill="#FF2BD6"/>
     <text x="805" y="100" font-size="30" font-weight="700" text-anchor="middle" fill="#E6F1FF">1</text>
     <text x="805" y="124" font-size="11" letter-spacing="1" text-anchor="middle" fill="#8A9BB5">FOLLOWERS</text>
-    <text x="30" y="166" font-size="11" letter-spacing="1" fill="#8A9BB5">SYNCED 2026-11-13 UTC</text>
+    <text x="30" y="166" font-size="11" letter-spacing="1" fill="#8A9BB5">SYNCED 2026-11-14 UTC</text>
   </g>
 </svg>
